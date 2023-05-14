@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/project-jagrut/static/css/main.de3e7f46.css",
+    "main.js": "/project-jagrut/static/js/main.23475b31.js",
+    "static/js/787.cda612ba.chunk.js": "/project-jagrut/static/js/787.cda612ba.chunk.js",
+    "static/media/a.jpg": "/project-jagrut/static/media/a.cc1e3bb23021cc3c0496.jpg",
+    "static/media/jagruthi.jpg": "/project-jagrut/static/media/jagruthi.667422ba17a053a130c9.jpg",
+    "static/media/jag.jpg": "/project-jagrut/static/media/jag.75744152187dc511cf1c.jpg",
+    "index.html": "/project-jagrut/index.html",
+    "main.de3e7f46.css.map": "/project-jagrut/static/css/main.de3e7f46.css.map",
+    "main.23475b31.js.map": "/project-jagrut/static/js/main.23475b31.js.map",
+    "787.cda612ba.chunk.js.map": "/project-jagrut/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de3e7f46.css",
+    "static/js/main.23475b31.js"
+  ]
+}
